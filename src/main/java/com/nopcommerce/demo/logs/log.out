@@ -1,0 +1,185 @@
+2024-12-14 14:12:756 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (50dd41f7cd4c5ef35d9dc2a9aa3f158b)] -> link text: Log in]
+2024-12-14 14:12:318 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (50dd41f7cd4c5ef35d9dc2a9aa3f158b)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:843 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (4d4e669f78dacf8b9f6a5e31649a30d8)] -> link text: Log in]
+2024-12-14 14:12:82 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (48d42c4e578854d9b1461bfd88f88292)] -> link text: Log in]
+2024-12-14 14:12:845 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (efa59226211023d254c28ec053b693f7)] -> link text: Log in]
+2024-12-14 16:12:17 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (1bdd4e6ce8f526b663cd8ff2a78f0a07)] -> link text: Log in]
+2024-12-14 16:12:166 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (1bdd4e6ce8f526b663cd8ff2a78f0a07)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:974 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2024-12-14 16:12:978 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2024-12-14 16:12:265 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 371 fonts
+2024-12-14 16:12:740 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (7923d38110a6048ccb19c9a6d78c09f0)] -> link text: Log in]
+2024-12-14 16:12:257 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (7923d38110a6048ccb19c9a6d78c09f0)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:304 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2024-12-14 16:12:306 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2024-12-14 16:12:250 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 371 fonts
+2024-12-16 11:12:683 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (4e7a67b044029c5c0fa44b2c5721e94f)] -> link text: Log in]
+2024-12-16 11:12:902 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (4e7a67b044029c5c0fa44b2c5721e94f)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 11:12:163 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (49d70b98c4af33a6a057ab786bd2bf7f)] -> link text: Log in]
+2024-12-16 11:12:949 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (e0fdee53d998fcc5e0770407587b59c9)] -> link text: Log in]
+2024-12-16 11:12:696 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (6d00acfbb6db4063515dc2f427409aab)] -> link text: Log in]
+2024-12-16 11:12:451 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (2919a78447c22688d52f9c10d90186ac)] -> link text: Log in]
+2024-12-17 09:12:282 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (876e78a59783954fcf243b71cb0958aa)] -> link text: Log in]
+2024-12-17 09:12:785 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (c37ce37278e8ec9f8d35650cb33e45cb)] -> link text: Log in]
+2024-12-17 09:12:19 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (87076fb84be2a5f31957d509cf26ad29)] -> link text: Log in]
+2024-12-17 09:12:784 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (fd0322bbcf0e7249c3dca9ce669d8d48)] -> link text: Log in]
+2024-12-17 09:12:870 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (192a54e92f034d71bb19046d25a97e27)] -> link text: Log in]
+2024-12-17 09:12:874 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (192a54e92f034d71bb19046d25a97e27)] -> link text: Log in]
+2024-12-17 09:12:371 INFO  HomePage :37 - Clicking on register link : [[ChromeDriver: chrome on windows (6215c4ea8d58b7c786c0b65593a88494)] -> link text: Register]
+2024-12-17 09:12:398 INFO  HomePage :37 - Clicking on register link : [[ChromeDriver: chrome on windows (6215c4ea8d58b7c786c0b65593a88494)] -> link text: Register]
+2024-12-17 10:12:912 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (f1e7afb880b6c8247e814ab349a9dd64)] -> link text: Log in]
+2024-12-17 10:12:177 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (f1e7afb880b6c8247e814ab349a9dd64)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-17 10:12:994 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (a803dc210983b010acceff9c0296e59d)] -> link text: Log in]
+2024-12-17 10:12:211 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (e564dd3dd1c7de187d173df7cd611fec)] -> link text: Log in]
+2024-12-17 10:12:405 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (4ef2b160b5b5f96b6b84c92b46362d43)] -> link text: Log in]
+2024-12-17 10:12:928 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (64eb97f86aa6d57efae569c3534e064a)] -> link text: Log in]
+2024-12-17 10:12:928 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (120914467860a1a1267fd0a3500286c8)] -> link text: Log in]
+2024-12-17 10:12:196 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (120914467860a1a1267fd0a3500286c8)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-17 10:12:04 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (35d83126f0ab4862595da41c61937553)] -> link text: Log in]
+2024-12-17 10:12:527 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (26fb812aa2ed436ac9a4870686bbc7b3)] -> link text: Log in]
+2024-12-17 10:12:163 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8594a2b2325c9da26ecb58826bf07b8c)] -> link text: Log in]
+2024-12-17 10:12:495 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (05e7f1a306a8698c628a5af436816e73)] -> link text: Log in]
+2024-12-17 10:12:622 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (f6d2161a393afc0ed35fd5ce5cb064f3)] -> link text: Log in]
+2024-12-17 10:12:875 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (f6d2161a393afc0ed35fd5ce5cb064f3)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-17 10:12:524 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (09c435100c222d5db4b60a9b03fe8679)] -> link text: Log in]
+2024-12-17 10:12:188 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (25cdd9449ec1643d1330cc003a3b1998)] -> link text: Log in]
+2024-12-17 10:12:681 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (448ac13e60379289beead9d5a91f651c)] -> link text: Log in]
+2024-12-17 10:12:922 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (6db1068bf097f38adf5e4c33d33a26e1)] -> link text: Log in]
+2024-12-17 10:12:174 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (700665b5aacd138e50165f68bd9afd3b)] -> link text: Log in]
+2024-12-17 10:12:592 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (700665b5aacd138e50165f68bd9afd3b)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-17 10:12:449 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (012bc7f69e03726eaa21f01b12b143b4)] -> link text: Log in]
+2024-12-17 10:12:366 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (f4822fdee91d58eba70a2217345d00fb)] -> link text: Log in]
+2024-12-17 10:12:39 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (4567a81270f601f85b786314d993742a)] -> link text: Log in]
+2024-12-17 10:12:512 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (e79715bea4df4db1d2adb04c717d60a6)] -> link text: Log in]
+2024-12-17 11:12:535 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (ebba78e2cb0ced63043378360b9dfa66)] -> link text: Log in]
+2024-12-17 11:12:899 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (ebba78e2cb0ced63043378360b9dfa66)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-17 11:12:893 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (ed14d767866565f95d0afd375e522cd9)] -> link text: Log in]
+2024-12-17 11:12:760 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (b716b2f9b0131c4b10a64f5a184d0959)] -> link text: Log in]
+2024-12-17 11:12:365 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (708e72bae95a840dc7b87c6ffb323fb9)] -> link text: Log in]
+2024-12-17 11:12:328 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (6bb0bbdc1f568637cb813aa0eba37b89)] -> link text: Log in]
+2024-12-17 12:12:127 INFO  HomePage :50 - Click on loginLink : Log in
+2024-12-17 12:12:522 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (130605362e3ebc52b05ed7c5399467be)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-17 12:12:505 INFO  HomePage :50 - Click on loginLink : Log in
+2024-12-17 12:12:766 INFO  HomePage :50 - Click on loginLink : Log in
+2024-12-17 12:12:764 INFO  HomePage :50 - Click on loginLink : Log in
+2024-12-17 12:12:273 INFO  HomePage :50 - Click on loginLink : Log in
+2024-12-17 12:12:527 INFO  HomePage :75 - Click on logOutLink : Log out
+2024-12-17 13:12:556 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:88 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 13:12:535 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:155 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 13:12:01 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:735 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 13:12:595 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:945 INFO  RegisterPage :81 - Select 'Male' radio button
+2024-12-17 13:12:811 INFO  RegisterPage :90 - Enter Firstname : 'John' to firstName field
+2024-12-17 13:12:224 INFO  RegisterPage :95 - Enter Lastname : 'Doe' to lastName field
+2024-12-17 13:12:259 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:630 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 13:12:543 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:729 INFO  RegisterPage :81 - Select 'Male' radio button
+2024-12-17 13:12:349 INFO  RegisterPage :90 - Enter Firstname : 'John' to firstName field
+2024-12-17 13:12:615 INFO  RegisterPage :95 - Enter Lastname : 'Doe' to lastName field
+2024-12-17 13:12:65 INFO  RegisterPage :108 - Enter Email : 'johndoe123@example.com' to email field
+2024-12-17 13:12:465 INFO  RegisterPage :113 - Enter Password : 'Password123' to password field
+2024-12-17 13:12:860 INFO  RegisterPage :118 - Enter Confirm password : 'Password123' to confirm password field
+2024-12-17 13:12:186 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 13:12:448 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:37 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 13:12:844 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:261 INFO  RegisterPage :81 - Select 'Male' radio button
+2024-12-17 13:12:45 INFO  RegisterPage :90 - Enter Firstname : 'John' to firstName field
+2024-12-17 13:12:410 INFO  RegisterPage :95 - Enter Lastname : 'Doe' to lastName field
+2024-12-17 13:12:925 INFO  RegisterPage :108 - Enter Email : 'johndoe123@example.com' to email field
+2024-12-17 13:12:324 INFO  RegisterPage :113 - Enter Password : 'Password123' to password field
+2024-12-17 13:12:755 INFO  RegisterPage :118 - Enter Confirm password : 'Password123' to confirm password field
+2024-12-17 13:12:77 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 13:12:929 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:430 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 13:12:321 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 13:12:883 INFO  RegisterPage :81 - Select 'Male' radio button
+2024-12-17 13:12:809 INFO  RegisterPage :90 - Enter Firstname : 'Johne' to firstName field
+2024-12-17 13:12:200 INFO  RegisterPage :95 - Enter Lastname : 'Doee' to lastName field
+2024-12-17 13:12:947 INFO  RegisterPage :108 - Enter Email : 'johndoe1233@example.com' to email field
+2024-12-17 13:12:337 INFO  RegisterPage :113 - Enter Password : 'Password1234' to password field
+2024-12-17 13:12:782 INFO  RegisterPage :118 - Enter Confirm password : 'Password1234' to confirm password field
+2024-12-17 13:12:451 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 13:12:632 INFO  RegisterPage :142 - Get your reg completed text : Your registration completed
+2024-12-17 13:12:666 INFO  RegisterPage :147 - Click on 'CONTINUE' button
+2024-12-17 14:12:52 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 14:12:574 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 14:12:291 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 14:12:476 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 14:12:378 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 14:12:511 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 14:12:555 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 14:12:329 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 15:12:719 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:663 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 15:12:648 ERROR RegisterPage :136 - No validation message found for field: fieldName
+2024-12-17 15:12:108 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:937 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 15:12:460 ERROR RegisterPage :136 - No validation message found for field: First name is required.
+2024-12-17 15:12:741 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:348 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 15:12:776 ERROR RegisterPage :136 - No validation message found for field: Last name is required.
+2024-12-17 15:12:563 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:296 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 15:12:607 ERROR RegisterPage :136 - No validation message found for field: Email is required.
+2024-12-17 15:12:173 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:186 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:225 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:755 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:940 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:513 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:00 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:95 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:380 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:985 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:41 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:674 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:323 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:281 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:585 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:835 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:926 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:319 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 15:12:607 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 15:12:905 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 15:12:284 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 15:12:133 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:419 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:19 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 15:12:646 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 15:12:977 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 15:12:273 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 15:12:38 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 15:12:174 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 15:12:537 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 15:12:784 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 15:12:18 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 15:12:284 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 16:12:436 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 16:12:629 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 16:12:201 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 16:12:541 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 16:12:897 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 16:12:444 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 16:12:121 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 16:12:39 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 16:12:398 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 16:12:679 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 16:12:958 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 16:12:212 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 16:12:417 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 16:12:360 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 16:12:868 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 16:12:146 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 16:12:535 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 16:12:155 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 19:12:214 INFO  HomePage :63 - Click on registerLink : Register
+2024-12-17 19:12:333 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 19:12:795 INFO  RegisterPage :134 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 19:12:91 INFO  RegisterPage :134 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 19:12:407 INFO  RegisterPage :134 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 19:12:711 INFO  RegisterPage :134 - Validation message : 'Password is required.' for fieldName 'Password'
